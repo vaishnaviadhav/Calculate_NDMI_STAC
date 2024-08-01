@@ -6,3 +6,6 @@
 - Inputs are date and a farm polygon (choose your favourite farm).
 - Output as an image in .png format (colored red-yellow-green) and mean NDMI value.
 - Brownie points for solving the below edge case: Incase that particular date does not have sentinel 2 data; the pipeline should pull the latest available sentinel 2 imagery to calculate NDMI.
+
+### Output
+![ndmi](https://github.com/user-attachments/assets/fa1ae097-f215-42f9-bf41-af4d818b8d10)
