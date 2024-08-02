@@ -1,0 +1,5 @@
+pystac-client==0.4.0
+geopandas==0.10.2
+rioxarray==0.10.1
+numpy==1.21.2
+matplotlib==3.4.3
