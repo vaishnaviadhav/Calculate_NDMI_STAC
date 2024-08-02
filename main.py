@@ -118,7 +118,6 @@ def main(shapefile_path, primary_start_date, primary_end_date, fallback_start_da
     mean_ndmi = ndmi.mean().item()
     plot_mean_ndmi(mean_ndmi)
 
-# Example usage
 shapefile_path = 'C:/Users/vaish/Downloads/Boomitra/aoi.shp'
 primary_start_date = "2024-06-01T00:00:00Z"
 primary_end_date = "2024-06-30T23:59:59Z"
